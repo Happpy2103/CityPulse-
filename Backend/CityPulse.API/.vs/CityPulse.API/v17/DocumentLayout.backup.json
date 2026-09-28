@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\D\\CityPulse\\Backend\\CityPulse.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB604A83-5E71-49B1-87C8-ED9CE2C5BF45}|CityPulse.API.csproj|e:\\d\\citypulse\\backend\\citypulse.api\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB604A83-5E71-49B1-87C8-ED9CE2C5BF45}|CityPulse.API.csproj|solutionrelative:model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB604A83-5E71-49B1-87C8-ED9CE2C5BF45}|CityPulse.API.csproj|e:\\d\\citypulse\\backend\\citypulse.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB604A83-5E71-49B1-87C8-ED9CE2C5BF45}|CityPulse.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB604A83-5E71-49B1-87C8-ED9CE2C5BF45}|CityPulse.API.csproj|e:\\d\\citypulse\\backend\\citypulse.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB604A83-5E71-49B1-87C8-ED9CE2C5BF45}|CityPulse.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB604A83-5E71-49B1-87C8-ED9CE2C5BF45}|CityPulse.API.csproj|e:\\d\\citypulse\\backend\\citypulse.api\\data\\citypulsedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB604A83-5E71-49B1-87C8-ED9CE2C5BF45}|CityPulse.API.csproj|solutionrelative:data\\citypulsedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB604A83-5E71-49B1-87C8-ED9CE2C5BF45}|CityPulse.API.csproj|e:\\d\\citypulse\\backend\\citypulse.api\\controllers\\issuemediascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB604A83-5E71-49B1-87C8-ED9CE2C5BF45}|CityPulse.API.csproj|solutionrelative:controllers\\issuemediascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB604A83-5E71-49B1-87C8-ED9CE2C5BF45}|CityPulse.API.csproj|e:\\d\\citypulse\\backend\\citypulse.api\\model\\issue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB604A83-5E71-49B1-87C8-ED9CE2C5BF45}|CityPulse.API.csproj|solutionrelative:model\\issue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB604A83-5E71-49B1-87C8-ED9CE2C5BF45}|CityPulse.API.csproj|e:\\d\\citypulse\\backend\\citypulse.api\\model\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB604A83-5E71-49B1-87C8-ED9CE2C5BF45}|CityPulse.API.csproj|solutionrelative:model\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB604A83-5E71-49B1-87C8-ED9CE2C5BF45}|CityPulse.API.csproj|e:\\d\\citypulse\\backend\\citypulse.api\\model\\issuemedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB604A83-5E71-49B1-87C8-ED9CE2C5BF45}|CityPulse.API.csproj|solutionrelative:model\\issuemedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB604A83-5E71-49B1-87C8-ED9CE2C5BF45}|CityPulse.API.csproj|e:\\d\\citypulse\\backend\\citypulse.api\\controllers\\issuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB604A83-5E71-49B1-87C8-ED9CE2C5BF45}|CityPulse.API.csproj|solutionrelative:controllers\\issuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB604A83-5E71-49B1-87C8-ED9CE2C5BF45}|CityPulse.API.csproj|e:\\d\\citypulse\\backend\\citypulse.api\\migrations\\20251021170758_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB604A83-5E71-49B1-87C8-ED9CE2C5BF45}|CityPulse.API.csproj|solutionrelative:migrations\\20251021170758_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\D\\CityPulse\\Backend\\CityPulse.API\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Model\\User.cs",
+              "ToolTip": "E:\\D\\CityPulse\\Backend\\CityPulse.API\\Model\\User.cs",
+              "RelativeToolTip": "Model\\User.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T16:58:48.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\D\\CityPulse\\Backend\\CityPulse.API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\D\\CityPulse\\Backend\\CityPulse.API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-26T15:56:32.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IssueMediasController.cs",
+              "DocumentMoniker": "E:\\D\\CityPulse\\Backend\\CityPulse.API\\Controllers\\IssueMediasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\IssueMediasController.cs",
+              "ToolTip": "E:\\D\\CityPulse\\Backend\\CityPulse.API\\Controllers\\IssueMediasController.cs",
+              "RelativeToolTip": "Controllers\\IssueMediasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T17:27:36.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CityPulseDbContext.cs",
+              "DocumentMoniker": "E:\\D\\CityPulse\\Backend\\CityPulse.API\\Data\\CityPulseDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\CityPulseDbContext.cs",
+              "ToolTip": "E:\\D\\CityPulse\\Backend\\CityPulse.API\\Data\\CityPulseDbContext.cs",
+              "RelativeToolTip": "Data\\CityPulseDbContext.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAcwHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T17:17:36.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Issue.cs",
+              "DocumentMoniker": "E:\\D\\CityPulse\\Backend\\CityPulse.API\\Model\\Issue.cs",
+              "RelativeDocumentMoniker": "Model\\Issue.cs",
+              "ToolTip": "E:\\D\\CityPulse\\Backend\\CityPulse.API\\Model\\Issue.cs",
+              "RelativeToolTip": "Model\\Issue.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAArwBEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T17:06:31.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "E:\\D\\CityPulse\\Backend\\CityPulse.API\\Model\\Comment.cs",
+              "RelativeDocumentMoniker": "Model\\Comment.cs",
+              "ToolTip": "E:\\D\\CityPulse\\Backend\\CityPulse.API\\Model\\Comment.cs",
+              "RelativeToolTip": "Model\\Comment.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIA6wB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T17:06:30.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\D\\CityPulse\\Backend\\CityPulse.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\D\\CityPulse\\Backend\\CityPulse.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAcwEIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T13:16:44.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IssuesController.cs",
+              "DocumentMoniker": "E:\\D\\CityPulse\\Backend\\CityPulse.API\\Controllers\\IssuesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\IssuesController.cs",
+              "ToolTip": "E:\\D\\CityPulse\\Backend\\CityPulse.API\\Controllers\\IssuesController.cs",
+              "RelativeToolTip": "Controllers\\IssuesController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAUwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T17:06:19.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IssueMedia.cs",
+              "DocumentMoniker": "E:\\D\\CityPulse\\Backend\\CityPulse.API\\Model\\IssueMedia.cs",
+              "RelativeDocumentMoniker": "Model\\IssueMedia.cs",
+              "ToolTip": "E:\\D\\CityPulse\\Backend\\CityPulse.API\\Model\\IssueMedia.cs",
+              "RelativeToolTip": "Model\\IssueMedia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T13:06:29.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20251021170758_InitialCreate.cs",
+              "DocumentMoniker": "E:\\D\\CityPulse\\Backend\\CityPulse.API\\Migrations\\20251021170758_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251021170758_InitialCreate.cs",
+              "ToolTip": "E:\\D\\CityPulse\\Backend\\CityPulse.API\\Migrations\\20251021170758_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20251021170758_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T17:07:59.011Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
